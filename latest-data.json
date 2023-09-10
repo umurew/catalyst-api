@@ -1,0 +1,11 @@
+{
+    "api-module": {
+        "version": 1,
+        "patched": false,
+        "download": ""
+    },
+    "api": {
+        "version": 1,
+        "download": ""
+    }
+}
