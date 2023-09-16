@@ -5,7 +5,7 @@
         "download": "https://github.com/WeAreDevs-Official/WeAreDevs-Official.github.io/raw/master/versions/6-8/Module.dll"
     },
     "api": {
-        "version": 1,
+        "version": 2,
         "download": "https://github.com/umurew/catalyst-api/raw/main/Catalyst%20API.dll"
     }
 }
